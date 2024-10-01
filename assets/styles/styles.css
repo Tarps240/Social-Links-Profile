@@ -79,7 +79,7 @@ h1 {
     display: block;
     width: 100%;
     padding: .7rem;
-    background: var(--grey-800);
+    background: var(--grey-700);
     text-align: center;
     border-radius: .3rem;
     transition: background .3s ease, color .3s ease;
@@ -87,7 +87,7 @@ h1 {
 
 .list-item:hover {
     background-color: var(--highlight-color);
-    color: var(--grey-800);
+    color: var(--grey-700);
 }
 
 /* Layout Styles */
@@ -102,7 +102,7 @@ h1 {
     width: 25em;
     padding: 1.75em;
     border-radius: .6rem;
-    background: var(--grey-700);
+    background: var(--grey-800);
 }
 
 .social-links {
